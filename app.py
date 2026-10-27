@@ -19,12 +19,12 @@ ALGORITHM = "HS256"
 TOKEN_MINUTES = 5
 
 USERS = {
-    "mari": {
-        "password": "maasikas1",
+    "student": {
+        "password": "student123",
         "id": "1024",
         "role": "student"
     },
-    "juhan": {
+    "admin": {
         "password": "admin123",
         "id": "1",
         "role": "admin"
